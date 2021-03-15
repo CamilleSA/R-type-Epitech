@@ -1,0 +1,16 @@
+bonus/
+vgcore.*
+*.log
+Doxyfile
+doc/html/
+doc/latex/
+CMakeFiles/
+bin/
+cmake_install.cmake
+CMakeCache.txt
+conan.lock
+conanbuildinfo.cmake
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json
+Makefile
