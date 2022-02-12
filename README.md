@@ -100,6 +100,5 @@ Each commit should then be followed by a single line (around 50 characters) expl
 
 * **Lal Joncoux-Aydin** _alias_ [@LalJoncoux-Aydin](https://github.com/LalJoncoux-Aydin)
 * **Zoé Lenglemetz** _alias_ [@zoleng](https://github.com/zoleng)
-* **Victor Hamon** _alias_ [@Victor-Hamon](https://github.com/Victor-Hamon)
 * **Camille Sayous** _alias_ [@CamilleSA](https://github.com/CamilleSA)
 
