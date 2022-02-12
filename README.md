@@ -9,7 +9,7 @@
 <a href="https://img.shields.io/badge/MADE%20WITH-CMAKE-red" alt="Cmake">
         <img src="https://img.shields.io/badge/MADE%20WITH-CMAKE-red" /></a>
 	
-![ScreenMenu](https://github.com/EpitechIT2020/B-CPP-501-PAR-5-1-rtype-lal.joncoux-aydin/blob/master/Screens/Menu_r_type.png)
+![ScreenMenu](https://github.com/CamilleSA/R-type-Epitech/blob/master/Assets/Menu_r_type.png)
 
 > For this Advanced C ++ Knowledge Unit project, R-Type will present the development of network video games. Implementation of a multi-threaded server and a graphical client, using a reusable game engine of our own design. The game should also be fun to play! The purpose of this project is to create a one-to-four player game, using a client/server architecture. This is important. It MUST be a client/server architecture. Peer-to-peer communication is not allowed.
 
